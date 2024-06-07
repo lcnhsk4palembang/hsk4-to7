@@ -1,2 +1,2 @@
-# hsk4lesson07
-HSK4 第 7 课
+# hsk4-TO7
+HSK4 TO7
